@@ -1,2 +1,2 @@
-for i in range(11):
-	print(i*4)
+for j in range(11):
+	print(j*4)
