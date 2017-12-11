@@ -1,3 +1,3 @@
 # presentation
 
-this repository contains random files used to demonstrate how to use git.
+This repository contains random files used to demonstrate some topic.
